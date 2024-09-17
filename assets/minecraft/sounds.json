@@ -1,0 +1,52 @@
+{
+	"clannad_": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/clannad",
+				"stream":true
+			}
+		],
+		"subtitle": "tuanzi"
+	},
+	"tearoom_": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/tearoom",
+				"stream":true
+			}
+		],
+		"subtitle": "tea room of arch"
+	},
+	"pelitown_": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pelitown",
+				"stream":true
+			}
+		],
+		"subtitle": "Pelican Town"
+	},
+	"spring_": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/spring",
+				"stream":true
+			}
+		],
+		"subtitle": "It's a big world outside"
+	},
+	"twofools_": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/twofools",
+				"stream":true
+			}
+		],
+		"subtitle": "两个笨蛋"
+	}
+}
